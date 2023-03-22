@@ -64,11 +64,11 @@
             string userInput = Console.ReadLine();
             if (userInput.ToUpper() == "FF")
             {
-                /*while (true)
+                while (true)
                 {
                     Console.WriteLine("Spiller '" + _currentPlayer + "' er en JÆVLA TAPER XDDDDDDDDDDDDDDD");
                 }
-                */
+
             }
             else
             {
